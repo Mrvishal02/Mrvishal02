@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishna Singh</h1>
 <h3 align="center">Learning Coding</h3>
-
+<img src="" alt="mrvishal02" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrvishal02&label=Profile%20views&color=0e75b6&style=flat" alt="mrvishal02" /> </p>
 
 <h3 align="left">Connect with me:</h3>
